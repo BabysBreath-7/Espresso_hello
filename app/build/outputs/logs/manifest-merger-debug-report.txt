@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:1:1-17:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\55e5e3114e72300362163596ea4728d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\59eceb13cbb7f3e38d86e9c411509f49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\a77de32c45242f73f37ff4a36e2996ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\9859c80d5956689b2700eecf028b0e25\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\40b0ba499b5068622bed71caa21d2c58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\ee5f3ef84065c9467be3e3c96a6a09e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\5a664fc666f209f7187fb3ff0a3e90ee\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\d7c76f358f98a8658772324a99613bb5\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:1:1-17:12
+INJECTED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:1:1-17:12
+	package
+		ADDED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:1:1-17:12
+		INJECTED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:1:1-17:12
+		INJECTED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:2:5-63
+application
+ADDED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:4:3-16:17
+	android:label
+		ADDED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:5:7-39
+	android:icon
+		ADDED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:6:7-41
+	android:theme
+		ADDED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.sqisland.android.espresso.hello.MainActivity
+ADDED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:8:5-15:16
+	android:label
+		ADDED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:10:9-41
+	android:name
+		ADDED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:9:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:11:7-14:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:12:9-60
+	android:name
+		ADDED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:12:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:13:9-68
+	android:name
+		ADDED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml:13:19-66
+uses-sdk
+INJECTED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\55e5e3114e72300362163596ea4728d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\55e5e3114e72300362163596ea4728d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\59eceb13cbb7f3e38d86e9c411509f49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\59eceb13cbb7f3e38d86e9c411509f49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\a77de32c45242f73f37ff4a36e2996ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\a77de32c45242f73f37ff4a36e2996ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\9859c80d5956689b2700eecf028b0e25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\9859c80d5956689b2700eecf028b0e25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\40b0ba499b5068622bed71caa21d2c58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\40b0ba499b5068622bed71caa21d2c58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\ee5f3ef84065c9467be3e3c96a6a09e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\ee5f3ef84065c9467be3e3c96a6a09e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\5a664fc666f209f7187fb3ff0a3e90ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\5a664fc666f209f7187fb3ff0a3e90ee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\d7c76f358f98a8658772324a99613bb5\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\tannnzhu\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\d7c76f358f98a8658772324a99613bb5\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tannnzhu\espresso_repo\hello\app\src\main\AndroidManifest.xml

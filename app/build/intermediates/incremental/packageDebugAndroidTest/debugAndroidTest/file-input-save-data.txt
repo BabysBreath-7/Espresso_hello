@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Aug 09 16:40:49 CST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\tannnzhu\\espresso_repo\\hello\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
